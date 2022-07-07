@@ -1,0 +1,6 @@
+resource_group_name = "madhudemo-rg"
+resource_location = "West Europe"
+storage_account = "madhustatefilessg"
+replication_type = "GRS"
+taier ="Standard"
+resource1_group_name = "madhudemo1-rg"
